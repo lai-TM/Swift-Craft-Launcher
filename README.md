@@ -5,7 +5,7 @@
   
   **✨ 现代化的 macOS Minecraft 启动器 ✨**
   
-  [![Swift Craft Launcher](https://img.shields.io/badge/Swift%20Craft%20Launcher-SCL-orange.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiPjwhLS0gSWNvbiBmcm9tIEZpbGUgSWNvbnMgYnkgSm9obiBHYXJkbmVyIC0gaHR0cHM6Ly9naXRodWIuY29tL2ZpbGUtaWNvbnMvaWNvbnMvYmxvYi9tYXN0ZXIvTElDRU5TRS5tZCAtLT48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0wIDBoMTY5Ljg0N3YxNzIuNTAxSDB6bTM0MC43NzUgMGgxNzAuMDk0djE3Mi41MDFIMzQwLjc3NXptMCAxNzIuNTAySDE2OS44NDd2ODUuOTE1SDg0Ljc4NVY1MTJoODUuMDYydi04Ni42NjhoMTcwLjkyOFY1MTJoODUuODY2VjI1OC40MTdoLTg1Ljg2NnoiLz48L3N2Zz4=)](https://github.com/suhang12332/Swift-Craft-Launcher)
+  [![Swift Craft Launcher](https://img.shields.io/badge/Swift%20Craft%20Launcher-SCL-orange.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxNjkuODQ3djE3Mi41MDFIMHptMzQwLjc3NSAwaDE3MC4wOTR2MTcyLjUwMUgzNDAuNzc1em0wIDE3Mi41MDJIMTY5Ljg0N3Y4NS45MTVIODQuNzg1VjUxMmg4NS4wNjJ2LTg2LjY2OGgxNzAuOTI4VjUxMmg4NS44NjZWMjU4LjQxN2gtODUuODY2eiIvPjwvc3ZnPg==)](https://github.com/suhang12332/Swift-Craft-Launcher)
   [![Swift](https://img.shields.io/badge/Swift-5.5+-red.svg?logo=swift)](https://swift.org/)
   [![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-1057517524-blue.svg?logo=QQ)](https://qm.qq.com/cgi-bin/qm/qr?k=1057517524)
   
