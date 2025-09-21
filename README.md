@@ -8,6 +8,7 @@
   [![Swift Craft Launcher](https://img.shields.io/badge/Swift%20Craft%20Launcher-SCL-orange.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxNjkuODQ3djE3Mi41MDFIMHptMzQwLjc3NSAwaDE3MC4wOTR2MTcyLjUwMUgzNDAuNzc1em0wIDE3Mi41MDJIMTY5Ljg0N3Y4NS45MTVIODQuNzg1VjUxMmg4NS4wNjJ2LTg2LjY2OGgxNzAuOTI4VjUxMmg4NS44NjZWMjU4LjQxN2gtODUuODY2eiIvPjwvc3ZnPg==)](https://github.com/suhang12332/Swift-Craft-Launcher)
   [![Swift](https://img.shields.io/badge/Swift-5.5+-red.svg?logo=swift)](https://swift.org/)
   [![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-1057517524-blue.svg?logo=QQ)](https://qm.qq.com/cgi-bin/qm/qr?k=1057517524)
+  [![Discord](https://img.shields.io/badge/Discord-%E9%A2%91%E9%81%93-5865f2.svg?logo=Discord)](https://discord.gg/ERfuHhh4TX)
   
   [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?logo=gnu)](https://www.gnu.org/licenses/agpl-3.0)
   [![latest-release](https://img.shields.io/github/v/release/suhang12332/Swift-Craft-Launcher?label=latest-release&logo=github)](https://github.com/suhang12332/Swift-Craft-Launcher/releases/latest)
